@@ -1,5 +1,5 @@
 build:
-  cuda_version: "12.1.1"
+  cuda_version: "11.8"
   python_packages:
     - "accelerate==0.34.2"
     - "torch==2.4.1"
